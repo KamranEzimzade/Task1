@@ -3,6 +3,10 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+
+"Hey Guys"
+
+
 public class Task1 {
 
     // In the line below a List of numbers with the Long type and "int k" which is the number of cars needs to be covered by the roof is being sent to the function as an argument
