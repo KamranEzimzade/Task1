@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 
 
-"Hey Guys"
+"Let's get done with it already"
 
 
 public class Task1 {
